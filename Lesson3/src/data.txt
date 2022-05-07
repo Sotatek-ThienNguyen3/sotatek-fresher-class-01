@@ -1,0 +1,4 @@
+id,hoten,namsinh
+1,thien nguyen 3,1998
+2,thien nguyen 4,1999
+1,thien nguyen 5,1997

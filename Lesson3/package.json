@@ -1,0 +1,16 @@
+{
+  "name": "lesson3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node src/test.js"
+  },
+  "dependencies": {
+    "axios": "0.27.2"
+  },
+  "engines": {
+    "node": "16.13.2"
+  }
+}

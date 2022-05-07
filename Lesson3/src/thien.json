@@ -1,0 +1,15 @@
+{
+  "thien": 1,
+  "khang": "2",
+  "hieu": true,
+  "mang": [
+    1,
+    2,
+    3,
+    4,
+    "34534",
+    true,
+    false
+  ],
+  "thien3": null
+}
