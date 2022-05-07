@@ -3,7 +3,7 @@ import { TeacherService } from 'src/modules/teacher/teacher.service';
 
 @Controller('/teacher')
 export class TeacherController {
-  constructor(private readonly studentService: TeacherService) { }
+  constructor(private readonly studentService: TeacherService) {}
 
   @Get('/')
   getNumberOfTeacher() {
