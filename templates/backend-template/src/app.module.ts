@@ -9,3 +9,6 @@ import { TeacherModule } from 'src/modules/teacher/teacher.module';
   exports: [],
 })
 export class AppModule {}
+
+// SELECT * FROM users;
+// userRepo.find();

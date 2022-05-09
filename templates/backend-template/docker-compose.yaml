@@ -11,4 +11,4 @@ services:
       MYSQL_PASSWORD: '1'
       LANG: C.UTF-8
     ports:
-      - 3306:3306
+      - 4306:3306
